@@ -1,0 +1,13 @@
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\bin\Release\AuthorChanger.exe.config
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\bin\Release\AuthorChanger.exe
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\bin\Release\AuthorChanger.pdb
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\obj\x86\Release\Workflow1.g.xaml
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\obj\x86\Release\ASPOSETEST_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\obj\x86\Release\_AuthorChanger.g.cs
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\obj\x86\Release\Workflow1.g.cs
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\obj\x86\Release\ASPOSETEST_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\obj\x86\Release\AuthorChanger.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\obj\x86\Release\AuthorChanger.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\obj\x86\Release\AuthorChanger.pdb
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\obj\x86\Release\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\khairullah.gaurab\Desktop\ASPOSETEST\ASPOSETEST\obj\x86\Release\AuthorChanger.exe

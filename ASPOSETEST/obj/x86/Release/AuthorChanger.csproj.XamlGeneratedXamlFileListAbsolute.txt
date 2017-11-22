@@ -1,0 +1,2 @@
+obj\x86\Release\Workflow1.g.xaml
+obj\x86\Release\ASPOSETEST_Workflow1_BeforeInitializeComponentHelper.txt
