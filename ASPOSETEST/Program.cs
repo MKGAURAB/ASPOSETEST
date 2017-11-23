@@ -23,7 +23,11 @@ namespace ASPOSETEST
         {
             foreach (string fileName in Directory.GetFiles(dirFile))
             {
-                if (Path.GetExtension(fileName) == ".xlsx" || Path.GetExtension(fileName) == ".XLSX")
+                if (Path.GetExtension(fileName) == ".xlsx" || Path.GetExtension(fileName) == ".XLSX"
+                    || Path.GetExtension(fileName) == ".XLS"
+                    || Path.GetExtension(fileName) == ".xls"
+                    || Path.GetExtension(fileName) == ".xlsm"
+                    || Path.GetExtension(fileName) == ".XLSM")
                 {
                     try
                     {
